@@ -1,4 +1,4 @@
-# animal_feed
+# animal game
 
 A new Flutter project.
 
