@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "424724292036",
+    "project_id": "shahrukh-wedding",
+    "storage_bucket": "shahrukh-wedding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424724292036:android:315ebb0dd692f54cf28491",
+        "android_client_info": {
+          "package_name": "com.example.animal_feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424724292036-mu7of3lv3574sfr64pm73tsqepho7l4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXLtTaWB326Ep6ZY7417ToG5lQnxUj-sI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424724292036-mu7of3lv3574sfr64pm73tsqepho7l4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
